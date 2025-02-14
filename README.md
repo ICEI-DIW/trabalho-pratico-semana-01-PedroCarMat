@@ -7,7 +7,7 @@ Nome: Pedro Carvalho Mattar
 Matricula: 888302
 
 ## Tela de inspeção com navegador
-Arquivo: Print-FerramentaDesenvolvedor-Wikipedia.PNG
+Print-FerramentaDesenvolvedor-Wikipedia.PNG
 
 ## Tela de projeto no Replit
-Arquivo: Print-ProjetoReplit.PNG
+Print-ProjetoReplit.PNG
