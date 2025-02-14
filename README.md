@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: Pedro Carvalho Mattar
-Matricula: 888302
+Nome: 
+Matricula: 
 
 ## Tela de inspeção com navegador
-Print-FerramentaDesenvolvedor-Wikipedia.PNG
+
 
 ## Tela de projeto no Replit
-Print-ProjetoReplit.PNG
+
