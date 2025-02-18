@@ -4,10 +4,11 @@
 
 ## Informações Gerais
 Nome: Pedro Carvalho Mattar
+<br>
 Matricula: 888302
 
 ## Tela de inspeção com navegador
-Print-FerramentaDesenvolvedor-Wikipedia.PNG
+<img src="Print-FerramentaDesenvolvedor-Wikipedia.PNG" width="300px" />
 
 ## Tela de projeto no Replit
-Print-ProjetoReplit.PNG
+<img src="Print-ProjetoReplit.PNG" width="300px" />
